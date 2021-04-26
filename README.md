@@ -1,2 +1,2 @@
 # Gan-text-style-transfer
- Unsupervised text style between Jueju and Lushi with WGAN 
+ Unsupervised text style transfer between Jueju and Lushi with WGAN 
